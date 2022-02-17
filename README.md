@@ -20,4 +20,6 @@ nghệ Nhận diện khuôn mặt đang cải thiện lĩnh vực y tế rất n
 6. Thanh toán online Alipay đã ra mắt hệ thống nhận diện gương mặt "Smile to Pay" đầu tiên trên thế giới tại một cửa hàng của KFC ở Hàng Châu
 
 ##DEMO
-# 
+####
+![image](https://user-images.githubusercontent.com/73639297/154470252-8e526dd2-ecc5-478d-b2f0-11e86ca52759.png)![image](https://user-images.githubusercontent.com/73639297/154470592-3fd67929-0c38-48da-b39d-9ab50da1783e.png)![image](https://user-images.githubusercontent.com/73639297/154470446-95fe9925-2c1e-47bc-a6d3-0ea2bce68953.png)
+
