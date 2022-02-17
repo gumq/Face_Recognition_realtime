@@ -2,7 +2,7 @@
 #Android App Nhận diện gương mặt sử dụng MobiFacenet.
 ## Tạo ứng dụng di động được sử dụng với mô hình MobileFaceNet
 ### 1.Bước phát hiện khuôn mặt
-Mẫu ban đầu đi kèm với mô hình DL khác và nó tính toán kết quả trong một bước duy nhất. Đối với ứng dụng này đầu tiên là phát hiện khuôn mặt và thứ hai là nhận dạng khuôn mặt. Đối với bước phát hiện khuôn mặt ta sẽ sử dụng bộ ML của Google
+Đối với ứng dụng này đầu tiên là bước phát hiện khuôn mặt và sau đó là bước nhận dạng khuôn mặt. Đối với bước phát hiện khuôn mặt ta sẽ sử dụng bộ ML của Google
 Là Face Detection .
 * Face Detection dung phát hiện mặt người trong ảnh .Hỗ trợ khả năng theo dõi khuôn mặt trong video
 ### 2. Bước nhận diện khuôn mặt sd TensorFlow Lite
